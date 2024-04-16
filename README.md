@@ -1,4 +1,4 @@
-# Readme-writer-with-llm
+# Readme-writer-automation
 
 
 ## Welcome to Your Automated README!
