@@ -64,7 +64,7 @@ If you encounter any problems or have any questions, please open an issue in thi
 
 ## Authors
 
-* **Shonmon Rcokey** - [Your GitHub](https://github.com/shon-Rocky)
+* **Shonmon Rcokey** - [GitHub](https://github.com/shon-Rocky)
 
 Contributing
 ------------
