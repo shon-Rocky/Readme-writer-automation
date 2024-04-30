@@ -1,4 +1,4 @@
-# Readme-writer-automation
+# Readme-writer-automation-for-python
 
 
 ## Welcome to Your Automated README For python!
@@ -20,13 +20,13 @@ Installation
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shon-Rocky/Readme-writer-with-langchain.git
+https://github.com/shon-Rocky/Readme-writer-automation-for-python.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd Readme-writer-with-langchain
+cd Readme-writer-automation-for-python
 ```
 
 3. Create a virtual environment and activate it:
