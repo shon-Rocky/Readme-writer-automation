@@ -1,4 +1,4 @@
-# Readme-writer-with-llm
+# Readme-writer-automation
 
 
 ## Welcome to Your Automated README For python!
@@ -64,12 +64,12 @@ If you encounter any problems or have any questions, please open an issue in thi
 
 ## Authors
 
-* **Shonmon Rcokey** - [Your GitHub](https://github.com/shon-Rocky)
+* **Shonmon Rcokey** - [GitHub](https://github.com/shon-Rocky)
 
 Contributing
 ------------
 
-Contributions are welcome! Please submit a pull request with your proposed changes. The code is basicaly for to chat with your git hub projects. I just created a simple readme creator with it. You can modify the code to do something more sophisticated
+Contributions are welcome! Please submit a pull request with your proposed changes. The code is basicaly for to chat with your git hub projects. I just created a simple readme automation with it. You can modify the code to do something more sophisticated
 
 ## License
 
