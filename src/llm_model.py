@@ -7,7 +7,7 @@ load_dotenv()
 
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = os.getenv("HUGGINGFACEHUB_API_TOKEN")
 
-def mixtral8x7b(
+def llm(
     temperature=1,
     max_token=1024,
     top_p=0.75,
